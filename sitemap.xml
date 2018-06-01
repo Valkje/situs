@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://abactis.voorbijdroomendaad.nl/categories/</loc>
+    <loc>http://abactis.voorbijdroomendaad.nl/situs/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://abactis.voorbijdroomendaad.nl/</loc>
+    <loc>http://abactis.voorbijdroomendaad.nl/situs/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://abactis.voorbijdroomendaad.nl/tags/</loc>
+    <loc>http://abactis.voorbijdroomendaad.nl/situs/tags/</loc>
     <priority>0</priority>
   </url>
   

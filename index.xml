@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Situs telae</title>
-    <link>http://abactis.voorbijdroomendaad.nl/</link>
+    <link>http://abactis.voorbijdroomendaad.nl/situs/</link>
     <description>Recent content on Situs telae</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://abactis.voorbijdroomendaad.nl/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://abactis.voorbijdroomendaad.nl/situs/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
